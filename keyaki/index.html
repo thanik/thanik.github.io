@@ -1,0 +1,123 @@
+<html>
+
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="src/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="src/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/favicon-16x16.png">
+    <link rel="manifest" href="src/assets/site.webmanifest">
+    <link rel="mask-icon" href="src/assets/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta property="og:image:width" content="279">
+    <meta property="og:image:height" content="279">
+    <meta property="og:title" content="Keyakizaka46 Member Sorter">
+    <meta property="og:description" content="What is your Keyakizaka46 member ranking? Find out here!">
+    <meta property="og:url" content="http://thanik.github.io/keyaki">
+    <meta property="og:image" content="http://thanik.github.io/keyaki/src/assets/og-image.jpg">
+    <title>Keyakizaka46 Member Sorter</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,800" rel="stylesheet">
+    <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" rel="stylesheet">
+    <link href="src/css/styles.css" rel="stylesheet" type="text/css">
+
+    <script src="src/js/data.js"></script>
+    <script src="src/js/data/2018-12-30.js"></script>
+
+    <script src="src/js/html2canvas.min.js"></script>
+    <script src="src/js/lz-string.min.js"></script>
+    <script src="src/js/seedrandom.min.js"></script>
+    <script src="src/js/main.js"></script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-64784129-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-64784129-2');
+    </script>
+
+</head>
+
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="title">
+                <p>Keyakizaka46<br>Member Sorter</p>
+            </div>
+
+            <div class="sort-body">
+                <div class="row">
+                    <div class="progress-section col-12 box">
+                        <span class="progressbattle"></span>
+                        <div class="progressbar">
+                            <div class="progressfill"><span class="progresstext"></span></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sorter row">
+                    <div class="col-4 box">
+                        <img class="left sort image" src="src/assets/default_card.jpg">
+                        <div class="left sort text"><p></p></div>
+                    </div>
+
+                    <div class="col-4">
+                        <div class="starting start button btn btn-outline-light btn-lg btn-block">Click to Start!</div>
+                        <div class="starting load button btn btn-outline-light">Load <span></span></div>
+
+                        <div class="loading button btn btn-outline-light"><div></div><span>Loading...</span></div>
+
+                        <div class="sorting tie button btn btn-outline-light">Tie</div>
+                        <div class="sorting undo button btn btn-outline-light">Undo</div>
+                        <div class="sorting save button btn btn-outline-light">Save Progress</div>
+                    </div>
+
+                    <div class="col-4 box">
+                        <img class="right sort image" src="src/assets/default_card.jpg">
+                        <div class="right sort text"><p></p></div>
+                    </div>
+
+                </div>
+
+                <div class="options"></div>
+                <div class="result-options">
+                    <div class="time taken"></div>
+                    <div class="image selector">Display Images on Result: </div>
+                    <div class="finished save button btn btn-outline-light">Generate Result URL</div>
+                    <div class="finished getimg button btn btn-outline-light">Generate Image</div>
+                    <div class="finished list button btn btn-outline-light">Generate Text List</div>
+                    <hr>
+                </div>
+
+                <div class="box col-12" id="new-results">
+                    <div class="result-title">My Keyakizaka46 Ranking</div>
+                    <div class="results row"></div>
+                    <div class="results results-table row"></div>
+                    <p class="result-footer">Keyakizaka46 Member Sorter by ThAniK - thanik.github.io/keyaki/<br>Keyakizaka46 Thai Fan Facebook Group - facebook.com/groups/Keyakizaka46.Thailand.Group/</p>
+                </div>
+
+                </div>
+
+            </div>
+            <div class="info">
+                <h4>Keyboard Controls</h4>
+                <p><span class="keyboard">Keyboard controls during sorting:</span> <br><span class="keyboard">H/LeftArrow</span> (pick left) <br><span class="keyboard">J/DownArrow</span> (undo) <br><span class="keyboard">K/UpArrow</span> (tie) <br><span class="keyboard">L/RightArrow</span> (pick right) <br><span class="keyboard">S</span> (save progress).</p>
+                <p><span class="keyboard">Before sorting: </span><br><span class="keyboard">S/Enter</span> (start sorting) <br><span class="keyboard">L</span> (load progress).</p>
+                <p><span class="keyboard">1/2/3</span> always correspond to the first/second/third buttons.</p>
+
+                <br>
+                <a href="#" class="clearsave">Clear Save Data</a>
+                <p>By <a href="https://twitter.com/thanik">ThAniK</a> Modified from <a href="https://github.com/execfera/charasort/">charasort by execfera</a><br><a href="https://facebook.com/groups/Keyakizaka46.Thailand.Group/">Keyakizaka46 Thai Fan Facebook Group</a> </p>
+                <p>This site is just a fan site and doesn't affiliate with Sony Music.</p>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>
