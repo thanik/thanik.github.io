@@ -422,7 +422,7 @@ dataSet[dataSetVersion].options = [
         name: 'Filter by Status',
         key: 'status',
         tooltip: 'Uncheck this to include graduated members',
-        checked: false,
+        checked: true,
         sub: [
             { name: 'Exclude Graduated', key: 'grad', tooltip: 'Do not uncheck this box'},
         ]
