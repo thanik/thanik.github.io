@@ -421,10 +421,10 @@ dataSet[dataSetVersion].options = [
     {
         name: 'Filter by Status',
         key: 'status',
-        tooltip: 'Check this to restrict to certain status',
-        checked: true,
+        tooltip: 'Uncheck this to include graduated members',
+        checked: false,
         sub: [
-            { name: 'Exclude Graduated', key: 'grad'},
+            { name: 'Exclude Graduated', key: 'grad', tooltip: 'Do not uncheck this box'},
         ]
     }
 ];
