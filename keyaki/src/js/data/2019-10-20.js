@@ -7,14 +7,15 @@ dataSet[dataSetVersion].characterData = [
         img: 'y6ZssOE.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
         name: 'Imaizumi Yui',
         img: '7yaXuEW.jpg',
         opts: {
-            subkeyaki: ['keyaki']
+            subkeyaki: ['keyaki'],
+            status: ['grad']
         }
     },
     {
@@ -22,7 +23,7 @@ dataSet[dataSetVersion].characterData = [
         img: 't3MpRxn.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -30,7 +31,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'xsYYGLU.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -38,7 +39,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'xP2JXqU.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -46,7 +47,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'rC4rwJg.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -54,7 +55,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'TzD40M4.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -62,7 +63,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'vi1m1PT.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -70,14 +71,15 @@ dataSet[dataSetVersion].characterData = [
         img: 'drV2j5k.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
         name: 'Shida Manaka',
         img: 'IQQinsJ.jpg',
         opts: {
-            subkeyaki: ['keyaki']
+            subkeyaki: ['keyaki'],
+            status: ['grad']
         }
     },
     {
@@ -85,7 +87,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'mLGPj3V.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -93,7 +95,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'dlvoyPE.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -101,14 +103,15 @@ dataSet[dataSetVersion].characterData = [
         img: 'YIPc4PT.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
         name: 'Nagahama Neru',
         img: 'GB8elzb.jpg',
         opts: {
-            subkeyaki: ['keyaki']
+            subkeyaki: ['keyaki'],
+            status: ['grad']
         }
     },
     {
@@ -116,7 +119,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'R4MHZwc.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -124,7 +127,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'CG15aSQ.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -132,7 +135,7 @@ dataSet[dataSetVersion].characterData = [
         img: '3Hjv31j.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -140,14 +143,15 @@ dataSet[dataSetVersion].characterData = [
         img: 'VM7TQY5.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
         name: 'Yonetani Nanami',
         img: '4WhFhTS.jpg',
         opts: {
-            subkeyaki: ['keyaki']
+            subkeyaki: ['keyaki'],
+            status: ['grad']
         }
     },
     {
@@ -155,7 +159,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'iFBbPeK.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -163,7 +167,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'U34b7Vg.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -171,7 +175,7 @@ dataSet[dataSetVersion].characterData = [
         img: '5nMjVUA.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -179,7 +183,7 @@ dataSet[dataSetVersion].characterData = [
         img: '1rcGom7.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -187,7 +191,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'VeYawfV.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -195,7 +199,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'NWloFvL.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -203,7 +207,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'vdcQFbV.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -211,7 +215,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'j4e1Fjd.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -219,7 +223,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'vhxki9X.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -227,7 +231,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'aklvjXw.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -235,7 +239,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'j7IxU19.jpg',
         opts: {
             subkeyaki: ['keyaki'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -243,7 +247,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'l0SAazZ.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -251,14 +255,15 @@ dataSet[dataSetVersion].characterData = [
         img: 'RFsItKy.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
         name: 'Kakizaki Memi',
         img: 'oquiaEE.jpg',
         opts: {
-            subkeyaki: ['hinata']
+            subkeyaki: ['hinata'],
+            status: ['grad']
         }
     },
     {
@@ -266,7 +271,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'EVeArCe.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -274,7 +279,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'jqwcdjz.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -282,7 +287,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'j5SpbHr.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -290,7 +295,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'uKpWEn5.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -298,7 +303,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'djm0eyk.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -306,7 +311,7 @@ dataSet[dataSetVersion].characterData = [
         img: '0qoOWGF.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -314,7 +319,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'rTQDCI0.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -322,7 +327,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'Vu341r5.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -330,7 +335,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'kickRAN.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -338,7 +343,7 @@ dataSet[dataSetVersion].characterData = [
         img: '0hiSJar.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -346,7 +351,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'YExxBZJ.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -354,7 +359,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'RKzjSGc.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -362,7 +367,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'uewUmao.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -370,7 +375,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'q5M8FgQ.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -378,7 +383,7 @@ dataSet[dataSetVersion].characterData = [
         img: '3Na2LjX.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -386,7 +391,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'glEKYpb.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -394,7 +399,7 @@ dataSet[dataSetVersion].characterData = [
         img: 'iz9lNdk.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     },
     {
@@ -402,7 +407,7 @@ dataSet[dataSetVersion].characterData = [
         img: '93o5qOG.jpg',
         opts: {
             subkeyaki: ['hinata'],
-            status: ['grad']
+            status: ['ungrad']
         }
     }
 ];
@@ -415,16 +420,18 @@ dataSet[dataSetVersion].options = [
         checked: false,
         sub: [
             { name: 'Keyakizaka46', key: 'keyaki'},
-            { name: 'Hinatazaka46', key: 'hinata'},
+            { name: 'Hinatazaka46', key: 'hinata'}
         ]
     },
     {
-        name: 'Filter by Status',
+        name: 'Filter by Graduation Status',
         key: 'status',
-        tooltip: 'Uncheck this to include graduated members',
-        checked: true,
+        tooltip: 'Check this to include/exclude members by graduation status',
+        checked: false,
         sub: [
-            { name: 'Exclude Graduated', key: 'grad', tooltip: 'Do not uncheck this box'},
+           
+            { name: 'Graduated Members', key: 'grad'},
+            { name: 'Current Members', key: 'ungrad'}
         ]
     }
 ];
