@@ -372,7 +372,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Hamagishi Hiyori',
-        img: 'q5M8FgQ.jpg',
+        img: 'J0yK5w3.jpg',
         opts: {
             subkeyaki: ['hinata'],
             status: ['ungrad']
