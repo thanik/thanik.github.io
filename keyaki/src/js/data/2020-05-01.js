@@ -4,7 +4,7 @@ dataSet[dataSetVersion] = {};
 dataSet[dataSetVersion].characterData = [
     {
         name: 'Ishimori Nijika',
-        img: 'fRrTkwL.jpg',
+        img: 'ea1TIMi.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -20,7 +20,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Uemura Rina',
-        img: 'Rla8j9M.jpg',
+        img: '1vpzkSV.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -28,7 +28,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Ozeki Rika',
-        img: 'Jnw6cJE.jpg',
+        img: '3SwRTjp.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -44,7 +44,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Koike Minami',
-        img: 'KnRggcy.jpg',
+        img: 'P6gKGer.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -52,7 +52,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Kobayashi Yui',
-        img: '8OLauWI.jpg',
+        img: 'bO5z5g3.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -60,7 +60,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Saito Fuyuka',
-        img: 'xoqmaR1.jpg',
+        img: 'CeQI7Pl.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -68,7 +68,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Sato Shiori',
-        img: 'vy6bzAN.jpg',
+        img: 'xDrdQ6F.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -84,7 +84,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Sugai Yuuka',
-        img: 'nS1dtAQ.jpg',
+        img: 'GQHki2y.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -100,7 +100,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Nagasawa Nanako',
-        img: 'buPyGtz.jpg',
+        img: 'AAHDw9v.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['grad']
@@ -116,7 +116,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Habu Mizuho',
-        img: 'LoQ1GmL.jpg',
+        img: 'zMGVEW1.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -124,7 +124,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Harada Aoi',
-        img: 'l8dpFPX.jpg',
+        img: '48nWBB9.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -140,7 +140,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Moriya Akane',
-        img: 'TCqUYpF.jpg',
+        img: 't3j9MjZ.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -156,7 +156,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Watanabe Rika',
-        img: 'Ngmclsj.jpg',
+        img: 'zb0GSsq.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -164,7 +164,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Watanabe Risa',
-        img: 'xLddIsl.jpg',
+        img: 'no18WAc.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -172,7 +172,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Inoue Rina',
-        img: 'OgxnJy9.jpg',
+        img: 'ODHjrHx.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -180,7 +180,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Seki Yumiko',
-        img: 'xhSiFbv.jpg',
+        img: 'ySoflAJ.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -188,7 +188,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Takemoto Yui',
-        img: '4rwy0SZ.jpg',
+        img: 'UX4ovlm.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -196,7 +196,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Tamura Hono',
-        img: 'DGOS10B.jpg',
+        img: 'txKUwF1.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -204,7 +204,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Fujiyoshi Karin',
-        img: 'GrUfe9w.jpg',
+        img: 'DeUn15l.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -212,7 +212,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Matsuda Rina',
-        img: 'BTUaJ0S.jpg',
+        img: 'EyEQMeC.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -220,7 +220,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Matsudaira Riko',
-        img: 'lOApJpt.jpg',
+        img: 'HiYglsu.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -228,7 +228,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Morita Hikaru',
-        img: 'pmkGZZI.jpg',
+        img: 'KQ3OIUw.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -236,7 +236,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Yamasaki Ten',
-        img: 'Rb2kcuL.jpg',
+        img: 'kLhQh81.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['ungrad']
@@ -244,7 +244,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Endo Hikari',
-        img: 'SiNO45B.jpg',
+        img: 'b0lhgC6.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['kss']
@@ -252,7 +252,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Ozono Rei',
-        img: 'waT6iT9.jpg',
+        img: 'xbB7SAp.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['kss']
@@ -260,7 +260,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Onuma Akiho',
-        img: 'My3U6kK.jpg',
+        img: 'r7Ibg5Y.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['kss']
@@ -268,7 +268,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Kosaka Marino',
-        img: 'pUo7rkJ.jpg',
+        img: 'dKF4N6x.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['kss']
@@ -276,7 +276,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Masumoto Kira',
-        img: 'ff5wq5I.jpg',
+        img: 'mCDSxvW.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['kss']
@@ -284,7 +284,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Moriya Rena',
-        img: 'CuuA99c.jpg',
+        img: 'qAOatpq.jpg',
         opts: {
             subkeyaki: ['keyaki'],
             status: ['kss']
@@ -460,7 +460,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Takahashi Mikuni',
-        img: 'Aq5U8nE.jpg',
+        img: 'V90QClX.jpg',
         opts: {
             subkeyaki: ['hinata'],
             status: ['kss']
@@ -468,7 +468,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Morimoto Marii',
-        img: 'ANoUulG.jpg',
+        img: '76w6cOc.jpg',
         opts: {
             subkeyaki: ['hinata'],
             status: ['kss']
@@ -476,7 +476,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: 'Yamaguchi Haruyo',
-        img: 'FufKqXT.jpg',
+        img: 'MgJ6YEO.jpg',
         opts: {
             subkeyaki: ['hinata'],
             status: ['kss']
